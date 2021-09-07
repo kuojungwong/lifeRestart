@@ -1,6 +1,6 @@
-# lifeRestart
+# lifeRestart （mirror image）
 
-<a href="https://discord.gg/U3qrf49NMQ"><img src="https://img.shields.io/discord/883382868427014255?color=%23FEE75C&label=Discord&logo=discord&logoColor=white&style=for-the-badge" /></a>
+<a href="https://discord.gg?/U3qrf49NMQ"><img src="https://img.shields.io?/discord/883382868427014255?color=%23FEE75C&label=Discord&logo=discord&logoColor=white&style=for-the-badge" /></a>
 
 [English](./README.md) | 简体中文
 
@@ -51,4 +51,4 @@ npm run dev
 node repl
 ```
 
-> 更多信息请参考 [官网文档](https://liferestart.syaro.io/)。
+> 更多信息请参考 [官网文档] ( https://liferestart.syaro.io/)。
